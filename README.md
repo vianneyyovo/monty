@@ -61,3 +61,8 @@ Description of each file
    6.Advanced Tasks
 
           opcodes: sub, div, mul, mod, comments, pchar, pstr, rotl, r          otr, stack, queue, Holberton, Add two digits, Multiplicatio           n, Multiplication level up
+
+## Authors
+
+* [Vianney Yovo](https://github.com/vianneyyovo/)
+* [Nnenna Kalu Ali](https://github.com/Kalunnenna1)
